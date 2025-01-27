@@ -1,0 +1,7 @@
+D:\GitHub\ece-2310\class exercises\CS_Week2\bin\Debug\CS_Week2.exe.config
+D:\GitHub\ece-2310\class exercises\CS_Week2\bin\Debug\CS_Week2.exe
+D:\GitHub\ece-2310\class exercises\CS_Week2\bin\Debug\CS_Week2.pdb
+D:\GitHub\ece-2310\class exercises\CS_Week2\obj\Debug\CS_Week2.csproj.AssemblyReference.cache
+D:\GitHub\ece-2310\class exercises\CS_Week2\obj\Debug\CS_Week2.csproj.CoreCompileInputs.cache
+D:\GitHub\ece-2310\class exercises\CS_Week2\obj\Debug\CS_Week2.exe
+D:\GitHub\ece-2310\class exercises\CS_Week2\obj\Debug\CS_Week2.pdb
