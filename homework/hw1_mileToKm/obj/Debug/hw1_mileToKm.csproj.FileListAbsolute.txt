@@ -1,0 +1,7 @@
+D:\GitHub\ece-2310\homework\hw1_mileToKm\bin\Debug\hw1_mileToKm.exe.config
+D:\GitHub\ece-2310\homework\hw1_mileToKm\bin\Debug\hw1_mileToKm.exe
+D:\GitHub\ece-2310\homework\hw1_mileToKm\bin\Debug\hw1_mileToKm.pdb
+D:\GitHub\ece-2310\homework\hw1_mileToKm\obj\Debug\hw1_mileToKm.csproj.AssemblyReference.cache
+D:\GitHub\ece-2310\homework\hw1_mileToKm\obj\Debug\hw1_mileToKm.csproj.CoreCompileInputs.cache
+D:\GitHub\ece-2310\homework\hw1_mileToKm\obj\Debug\hw1_mileToKm.exe
+D:\GitHub\ece-2310\homework\hw1_mileToKm\obj\Debug\hw1_mileToKm.pdb

@@ -1,0 +1,10 @@
+D:\GitHub\ece-2310\class exercises\pass_fail_gui\bin\Debug\pass_fail_gui.exe.config
+D:\GitHub\ece-2310\class exercises\pass_fail_gui\bin\Debug\pass_fail_gui.exe
+D:\GitHub\ece-2310\class exercises\pass_fail_gui\bin\Debug\pass_fail_gui.pdb
+D:\GitHub\ece-2310\class exercises\pass_fail_gui\obj\Debug\pass_fail_gui.csproj.AssemblyReference.cache
+D:\GitHub\ece-2310\class exercises\pass_fail_gui\obj\Debug\pass_fail_gui.Form1.resources
+D:\GitHub\ece-2310\class exercises\pass_fail_gui\obj\Debug\pass_fail_gui.Properties.Resources.resources
+D:\GitHub\ece-2310\class exercises\pass_fail_gui\obj\Debug\pass_fail_gui.csproj.GenerateResource.cache
+D:\GitHub\ece-2310\class exercises\pass_fail_gui\obj\Debug\pass_fail_gui.csproj.CoreCompileInputs.cache
+D:\GitHub\ece-2310\class exercises\pass_fail_gui\obj\Debug\pass_fail_gui.exe
+D:\GitHub\ece-2310\class exercises\pass_fail_gui\obj\Debug\pass_fail_gui.pdb

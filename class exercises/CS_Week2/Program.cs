@@ -17,10 +17,11 @@ namespace CS_Week2
             Console.WriteLine("Welcome to my temperature converter(F-->C)\n");
             Console.Write("What is the temperature today, please?");
             double C, F;
-            F = Convert.ToDouble(Console.ReadLine());
-            
+            string str_F = Console.ReadLine();
+            F = Convert.ToDouble(str_F);
             C = (F - 32) * 5 / 9;
-            Console.WriteLine("So it is "+F.ToString()+" degrees in F, which is equal to "+C.ToString()+" in degrees C.");
+            Console.WriteLine("It would be "+C.ToString()+" degrees in C.");
+            Console.WriteLine("It would be " + Math.Round(C, 2) + " degrees in C rounded.");
             Console.Read();
         }
     }
