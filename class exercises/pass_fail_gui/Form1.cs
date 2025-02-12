@@ -35,6 +35,45 @@ namespace pass_fail_gui
                     {
                         txtPass.BackColor = Color.MediumSpringGreen;
                         MessageBox.Show("You passed!");
+                        switch (score/10)
+                        {
+                            case 10:
+                                MessageBox.Show("Your grade is A");
+                                break;
+                            case 9:
+                                MessageBox.Show("Your grade is A");
+                                break;
+                            case 8:
+                                MessageBox.Show("Your grade is B");
+                                break;
+                            case 7:
+                                MessageBox.Show("Your grade is C");
+                                break;
+                            case 6:
+                                MessageBox.Show("Your grade is D");
+                                break;
+                            case 5:
+                                MessageBox.Show("Your grade is F");
+                                break;
+                            case 4:
+                                MessageBox.Show("Your grade is F");
+                                break;
+                            case 3:
+                                MessageBox.Show("Your grade is F");
+                                break;
+                            case 2:
+                                MessageBox.Show("Your grade is F");
+                                break;
+                            case 1:
+                                MessageBox.Show("Your grade is F");
+                                break;
+                            case 0:
+                                MessageBox.Show("Your grade is F");
+                                break;
+                            default:
+                                MessageBox.Show("Your grade is A");
+                                break;
+                        }
                     }
 
                     else
