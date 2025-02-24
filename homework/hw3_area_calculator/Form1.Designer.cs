@@ -82,6 +82,7 @@ namespace hw3_area_calculator
             this.rectangle.TabIndex = 3;
             this.rectangle.Text = "Rectangle";
             this.rectangle.UseVisualStyleBackColor = true;
+            this.rectangle.Click += new System.EventHandler(this.rectangle_Click);
             // 
             // cylinder
             // 
@@ -91,6 +92,7 @@ namespace hw3_area_calculator
             this.cylinder.TabIndex = 4;
             this.cylinder.Text = "Cylinder";
             this.cylinder.UseVisualStyleBackColor = true;
+            this.cylinder.Click += new System.EventHandler(this.cylinder_Click);
             // 
             // radius
             // 
@@ -157,6 +159,7 @@ namespace hw3_area_calculator
             this.calculate.Text = "Calculate";
             this.calculate.UseVisualStyleBackColor = true;
             this.calculate.Visible = false;
+            this.calculate.Click += new System.EventHandler(this.calculate_Click);
             // 
             // area_label
             // 
