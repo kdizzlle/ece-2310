@@ -1,0 +1,7 @@
+D:\GitHub\ece-2310\class exercises\input_validation_practice\bin\Debug\input_validation_practice.exe.config
+D:\GitHub\ece-2310\class exercises\input_validation_practice\bin\Debug\input_validation_practice.exe
+D:\GitHub\ece-2310\class exercises\input_validation_practice\bin\Debug\input_validation_practice.pdb
+D:\GitHub\ece-2310\class exercises\input_validation_practice\obj\Debug\input_validation_practice.csproj.AssemblyReference.cache
+D:\GitHub\ece-2310\class exercises\input_validation_practice\obj\Debug\input_validation_practice.csproj.CoreCompileInputs.cache
+D:\GitHub\ece-2310\class exercises\input_validation_practice\obj\Debug\input_validation_practice.exe
+D:\GitHub\ece-2310\class exercises\input_validation_practice\obj\Debug\input_validation_practice.pdb
