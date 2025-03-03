@@ -1,0 +1,7 @@
+D:\GitHub\ece-2310\class exercises\array_practice\bin\Debug\array_practice.exe.config
+D:\GitHub\ece-2310\class exercises\array_practice\bin\Debug\array_practice.exe
+D:\GitHub\ece-2310\class exercises\array_practice\bin\Debug\array_practice.pdb
+D:\GitHub\ece-2310\class exercises\array_practice\obj\Debug\array_practice.csproj.AssemblyReference.cache
+D:\GitHub\ece-2310\class exercises\array_practice\obj\Debug\array_practice.csproj.CoreCompileInputs.cache
+D:\GitHub\ece-2310\class exercises\array_practice\obj\Debug\array_practice.exe
+D:\GitHub\ece-2310\class exercises\array_practice\obj\Debug\array_practice.pdb
