@@ -33,6 +33,8 @@ namespace hw4_factorial
             this.label1 = new System.Windows.Forms.Label();
             this.list = new System.Windows.Forms.ListBox();
             this.Factorial = new System.Windows.Forms.Button();
+            this.label2 = new System.Windows.Forms.Label();
+            this.constant = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // input
@@ -69,11 +71,29 @@ namespace hw4_factorial
             this.Factorial.UseVisualStyleBackColor = true;
             this.Factorial.Click += new System.EventHandler(this.Factorial_Click);
             // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Location = new System.Drawing.Point(282, 392);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(16, 13);
+            this.label2.TabIndex = 5;
+            this.label2.Text = "e:";
+            // 
+            // constant
+            // 
+            this.constant.Location = new System.Drawing.Point(304, 389);
+            this.constant.Name = "constant";
+            this.constant.Size = new System.Drawing.Size(100, 20);
+            this.constant.TabIndex = 4;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.label2);
+            this.Controls.Add(this.constant);
             this.Controls.Add(this.Factorial);
             this.Controls.Add(this.list);
             this.Controls.Add(this.label1);
@@ -91,6 +111,8 @@ namespace hw4_factorial
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.ListBox list;
         private System.Windows.Forms.Button Factorial;
+        private System.Windows.Forms.Label label2;
+        private System.Windows.Forms.TextBox constant;
     }
 }
 
