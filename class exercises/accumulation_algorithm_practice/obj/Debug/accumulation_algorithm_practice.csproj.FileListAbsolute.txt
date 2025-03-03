@@ -1,0 +1,7 @@
+D:\GitHub\ece-2310\class exercises\accumulation_algorithm_practice\bin\Debug\accumulation_algorithm_practice.exe.config
+D:\GitHub\ece-2310\class exercises\accumulation_algorithm_practice\bin\Debug\accumulation_algorithm_practice.exe
+D:\GitHub\ece-2310\class exercises\accumulation_algorithm_practice\bin\Debug\accumulation_algorithm_practice.pdb
+D:\GitHub\ece-2310\class exercises\accumulation_algorithm_practice\obj\Debug\accumulation_algorithm_practice.csproj.AssemblyReference.cache
+D:\GitHub\ece-2310\class exercises\accumulation_algorithm_practice\obj\Debug\accumulation_algorithm_practice.csproj.CoreCompileInputs.cache
+D:\GitHub\ece-2310\class exercises\accumulation_algorithm_practice\obj\Debug\accumulation_algorithm_practice.exe
+D:\GitHub\ece-2310\class exercises\accumulation_algorithm_practice\obj\Debug\accumulation_algorithm_practice.pdb
