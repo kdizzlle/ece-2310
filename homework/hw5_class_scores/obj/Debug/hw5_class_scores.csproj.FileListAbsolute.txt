@@ -1,0 +1,7 @@
+D:\GitHub\ece-2310\homework\hw5_class_scores\bin\Debug\hw5_class_scores.exe.config
+D:\GitHub\ece-2310\homework\hw5_class_scores\bin\Debug\hw5_class_scores.exe
+D:\GitHub\ece-2310\homework\hw5_class_scores\bin\Debug\hw5_class_scores.pdb
+D:\GitHub\ece-2310\homework\hw5_class_scores\obj\Debug\hw5_class_scores.csproj.AssemblyReference.cache
+D:\GitHub\ece-2310\homework\hw5_class_scores\obj\Debug\hw5_class_scores.csproj.CoreCompileInputs.cache
+D:\GitHub\ece-2310\homework\hw5_class_scores\obj\Debug\hw5_class_scores.exe
+D:\GitHub\ece-2310\homework\hw5_class_scores\obj\Debug\hw5_class_scores.pdb
