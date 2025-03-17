@@ -1,0 +1,10 @@
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_take-home-pay\bin\Debug\hw6_take-home-pay.exe.config
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_take-home-pay\bin\Debug\hw6_take-home-pay.exe
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_take-home-pay\bin\Debug\hw6_take-home-pay.pdb
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_take-home-pay\obj\Debug\hw6_take-home-pay.csproj.AssemblyReference.cache
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_take-home-pay\obj\Debug\hw6_take_home_pay.Form1.resources
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_take-home-pay\obj\Debug\hw6_take_home_pay.Properties.Resources.resources
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_take-home-pay\obj\Debug\hw6_take-home-pay.csproj.GenerateResource.cache
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_take-home-pay\obj\Debug\hw6_take-home-pay.csproj.CoreCompileInputs.cache
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_take-home-pay\obj\Debug\hw6_take-home-pay.exe
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_take-home-pay\obj\Debug\hw6_take-home-pay.pdb
