@@ -1,0 +1,7 @@
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_integer_power\bin\Debug\hw6_integer_power.exe.config
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_integer_power\bin\Debug\hw6_integer_power.exe
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_integer_power\bin\Debug\hw6_integer_power.pdb
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_integer_power\obj\Debug\hw6_integer_power.csproj.AssemblyReference.cache
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_integer_power\obj\Debug\hw6_integer_power.csproj.CoreCompileInputs.cache
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_integer_power\obj\Debug\hw6_integer_power.exe
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw6_integer_power\obj\Debug\hw6_integer_power.pdb
