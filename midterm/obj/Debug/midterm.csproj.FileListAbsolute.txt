@@ -1,0 +1,7 @@
+D:\GitHub\ece-2310\midterm\bin\Debug\midterm.exe.config
+D:\GitHub\ece-2310\midterm\bin\Debug\midterm.exe
+D:\GitHub\ece-2310\midterm\bin\Debug\midterm.pdb
+D:\GitHub\ece-2310\midterm\obj\Debug\midterm.csproj.AssemblyReference.cache
+D:\GitHub\ece-2310\midterm\obj\Debug\midterm.csproj.CoreCompileInputs.cache
+D:\GitHub\ece-2310\midterm\obj\Debug\midterm.exe
+D:\GitHub\ece-2310\midterm\obj\Debug\midterm.pdb
