@@ -31,6 +31,13 @@ namespace attributes_procedural
             iD = id_number;
             gPA = g;
         }
+        public Student(string fn, string ln) //overloaded constructor
+        {
+            firstName = fn;
+            lastName = ln;
+            iD = "Unknown";
+            gPA = 3.33;//random number since we have to give something
+        }
         public void Study(string major)
         {
             Console.WriteLine("{0} {1} studies {2} at Cal Poly Pomona.", firstName, lastName, major);
