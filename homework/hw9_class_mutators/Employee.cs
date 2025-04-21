@@ -47,7 +47,7 @@ namespace hw8_employee_class
         public void DisplayInfo(double annual)
         {
             Console.WriteLine("{0} {1}\nEmployee ID: {2}\n${3} monthly salary\n${4} annual salary\n",
-                firstName, lastName, empNum, salary, annual);
+                firstName, lastName, empNum, annual/12, annual);
         }
         //mutators
         public string FirstName
@@ -59,6 +59,11 @@ namespace hw8_employee_class
         {
             get { return lastName; }
             set { lastName = value; }
+        }
+        public string EmpNum
+        {
+            get { return empNum; }
+            set { empNum = value; }
         }
         public double TotalSales
         {

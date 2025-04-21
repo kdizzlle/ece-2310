@@ -12,18 +12,21 @@ namespace hw8_employee_class
         {
             Console.WriteLine("Annual Salary Calculator\n");
             Employee emp01 = new Employee();
-            Employee emp02 = new Employee("326352489", "Harry", "Styles", 6000);
-            Employee emp03 = new Employee("658423679", 5000);
 
-            emp01.DisplayInfo(emp01.AnnualPay());
-            emp02.DisplayInfo(emp02.AnnualPay());
-            emp03.DisplayInfo(emp03.AnnualPay());
-
-            Console.WriteLine("Please enter the information for Employee #1:");
+            Console.WriteLine("Please enter the information for the employee:");
             Console.WriteLine("First name: ");
-            emp01.FirstName() = Console.ReadLine();
+            emp01.FirstName = Console.ReadLine();
+            Console.WriteLine("Last name: ");
+            emp01.LastName = Console.ReadLine();
+            Console.WriteLine("Employee Number: ");
+            emp01.EmpNum = Console.ReadLine();
+            Console.WriteLine("Total Sales this month: ");
+            emp01.TotalSales = Convert.ToDouble(Console.ReadLine());
 
-            Console.ReadLine();
+            Console.WriteLine("\nDisplaying employee info...\n");
+            emp01.DisplayInfo(emp01.AnnualPay());
+
+            Console.Read();
         }
     }
 }

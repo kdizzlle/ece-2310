@@ -1,0 +1,7 @@
+D:\GitHub\ece-2310\homework\hw9_class_mutators\bin\Debug\hw9_class_mutators.exe.config
+D:\GitHub\ece-2310\homework\hw9_class_mutators\bin\Debug\hw9_class_mutators.exe
+D:\GitHub\ece-2310\homework\hw9_class_mutators\bin\Debug\hw9_class_mutators.pdb
+D:\GitHub\ece-2310\homework\hw9_class_mutators\obj\Debug\hw9_class_mutators.csproj.AssemblyReference.cache
+D:\GitHub\ece-2310\homework\hw9_class_mutators\obj\Debug\hw9_class_mutators.csproj.CoreCompileInputs.cache
+D:\GitHub\ece-2310\homework\hw9_class_mutators\obj\Debug\hw9_class_mutators.exe
+D:\GitHub\ece-2310\homework\hw9_class_mutators\obj\Debug\hw9_class_mutators.pdb
