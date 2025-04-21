@@ -38,17 +38,53 @@ namespace attributes_procedural
             iD = "Unknown";
             gPA = 3.33;//random number since we have to give something
         }
+        //properties
+        public string FirstName
+        {
+            get { return firstName; }
+            set { firstName = value; }
+        }
+        public string LastName
+        {
+            get { return lastName; }
+            set { lastName = value; }
+        }
+        //accessors, or getters
+        public double GetGPA()
+        {
+            return gPA;
+        }
+        public string GetLN()
+        {
+            return lastName;
+        }
+        //mutators, or setters
+        public void SetGPA(double g)
+        {
+            gPA = g;
+        }
+        public void SetLN(string last)
+        {
+            lastName = last;
+        }
+        //methods
         public void Study(string major)
         {
             Console.WriteLine("{0} {1} studies {2} at Cal Poly Pomona.", firstName, lastName, major);
         }
         public void Play(double time)
         {
-            Console.WriteLine("{0} {1} has played the game for {2} hours.", firstName, lastName, time);
+            Console.WriteLine("{0} {1} has played soccer for {2} hours.", firstName, lastName, time);
         }
         public void DisplayInfo()
         {
             Console.WriteLine("Name: {0} {1}\nID: {2}\nGPA: {3}\n", firstName, lastName, iD, gPA);
+        }
+        public override string ToString()
+        {
+            string outStr = "Name: " + firstName + " " + lastName;
+            outStr += " ID: " + iD + " GPA: " + gPA;
+            return outStr;
         }
     }
 }

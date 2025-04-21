@@ -1,0 +1,7 @@
+D:\GitHub\ece-2310\class exercises\attributes_procedural\bin\Debug\attributes_procedural.exe.config
+D:\GitHub\ece-2310\class exercises\attributes_procedural\bin\Debug\attributes_procedural.exe
+D:\GitHub\ece-2310\class exercises\attributes_procedural\bin\Debug\attributes_procedural.pdb
+D:\GitHub\ece-2310\class exercises\attributes_procedural\obj\Debug\attributes_procedural.csproj.AssemblyReference.cache
+D:\GitHub\ece-2310\class exercises\attributes_procedural\obj\Debug\attributes_procedural.csproj.CoreCompileInputs.cache
+D:\GitHub\ece-2310\class exercises\attributes_procedural\obj\Debug\attributes_procedural.exe
+D:\GitHub\ece-2310\class exercises\attributes_procedural\obj\Debug\attributes_procedural.pdb
