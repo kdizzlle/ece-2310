@@ -1,0 +1,7 @@
+D:\GitHub\ece-2310\class exercises\class_inheritance\bin\Debug\class_inheritance.exe.config
+D:\GitHub\ece-2310\class exercises\class_inheritance\bin\Debug\class_inheritance.exe
+D:\GitHub\ece-2310\class exercises\class_inheritance\bin\Debug\class_inheritance.pdb
+D:\GitHub\ece-2310\class exercises\class_inheritance\obj\Debug\class_inheritance.csproj.AssemblyReference.cache
+D:\GitHub\ece-2310\class exercises\class_inheritance\obj\Debug\class_inheritance.csproj.CoreCompileInputs.cache
+D:\GitHub\ece-2310\class exercises\class_inheritance\obj\Debug\class_inheritance.exe
+D:\GitHub\ece-2310\class exercises\class_inheritance\obj\Debug\class_inheritance.pdb
