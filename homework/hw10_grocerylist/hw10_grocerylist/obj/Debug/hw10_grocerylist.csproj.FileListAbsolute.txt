@@ -1,0 +1,7 @@
+C:\Users\bronc\Documents\GitHub\ece-2310\homework\hw10_grocerylist\hw10_grocerylist\bin\Debug\hw10_grocerylist.exe.config
+C:\Users\bronc\Documents\GitHub\ece-2310\homework\hw10_grocerylist\hw10_grocerylist\bin\Debug\hw10_grocerylist.exe
+C:\Users\bronc\Documents\GitHub\ece-2310\homework\hw10_grocerylist\hw10_grocerylist\bin\Debug\hw10_grocerylist.pdb
+C:\Users\bronc\Documents\GitHub\ece-2310\homework\hw10_grocerylist\hw10_grocerylist\obj\Debug\hw10_grocerylist.csproj.AssemblyReference.cache
+C:\Users\bronc\Documents\GitHub\ece-2310\homework\hw10_grocerylist\hw10_grocerylist\obj\Debug\hw10_grocerylist.csproj.CoreCompileInputs.cache
+C:\Users\bronc\Documents\GitHub\ece-2310\homework\hw10_grocerylist\hw10_grocerylist\obj\Debug\hw10_grocerylist.exe
+C:\Users\bronc\Documents\GitHub\ece-2310\homework\hw10_grocerylist\hw10_grocerylist\obj\Debug\hw10_grocerylist.pdb

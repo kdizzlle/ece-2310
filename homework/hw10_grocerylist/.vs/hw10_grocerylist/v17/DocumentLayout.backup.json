@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\homework\\hw10_grocerylist\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21BAB0F4-E8F5-47BF-8D49-4EE454086801}|hw10_grocerylist\\hw10_grocerylist.csproj|c:\\users\\bronc\\documents\\github\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BAB0F4-E8F5-47BF-8D49-4EE454086801}|hw10_grocerylist\\hw10_grocerylist.csproj|solutionrelative:hw10_grocerylist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BAB0F4-E8F5-47BF-8D49-4EE454086801}|hw10_grocerylist\\hw10_grocerylist.csproj|c:\\users\\bronc\\documents\\github\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BAB0F4-E8F5-47BF-8D49-4EE454086801}|hw10_grocerylist\\hw10_grocerylist.csproj|solutionrelative:hw10_grocerylist\\milk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BAB0F4-E8F5-47BF-8D49-4EE454086801}|hw10_grocerylist\\hw10_grocerylist.csproj|c:\\users\\bronc\\documents\\github\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\eggs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BAB0F4-E8F5-47BF-8D49-4EE454086801}|hw10_grocerylist\\hw10_grocerylist.csproj|solutionrelative:hw10_grocerylist\\eggs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BAB0F4-E8F5-47BF-8D49-4EE454086801}|hw10_grocerylist\\hw10_grocerylist.csproj|c:\\users\\bronc\\documents\\github\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\bread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BAB0F4-E8F5-47BF-8D49-4EE454086801}|hw10_grocerylist\\hw10_grocerylist.csproj|solutionrelative:hw10_grocerylist\\bread.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BAB0F4-E8F5-47BF-8D49-4EE454086801}|hw10_grocerylist\\hw10_grocerylist.csproj|c:\\users\\bronc\\documents\\github\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\grocery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BAB0F4-E8F5-47BF-8D49-4EE454086801}|hw10_grocerylist\\hw10_grocerylist.csproj|solutionrelative:hw10_grocerylist\\grocery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grocery.cs",
+              "DocumentMoniker": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\Grocery.cs",
+              "RelativeDocumentMoniker": "hw10_grocerylist\\Grocery.cs",
+              "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\Grocery.cs",
+              "RelativeToolTip": "hw10_grocerylist\\Grocery.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:26:13.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Eggs.cs",
+              "DocumentMoniker": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\Eggs.cs",
+              "RelativeDocumentMoniker": "hw10_grocerylist\\Eggs.cs",
+              "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\Eggs.cs",
+              "RelativeToolTip": "hw10_grocerylist\\Eggs.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwC0AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:25:57.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Bread.cs",
+              "DocumentMoniker": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\Bread.cs",
+              "RelativeDocumentMoniker": "hw10_grocerylist\\Bread.cs",
+              "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\Bread.cs",
+              "RelativeToolTip": "hw10_grocerylist\\Bread.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwC0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:25:37.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Milk.cs",
+              "DocumentMoniker": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\Milk.cs",
+              "RelativeDocumentMoniker": "hw10_grocerylist\\Milk.cs",
+              "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\Milk.cs",
+              "RelativeToolTip": "hw10_grocerylist\\Milk.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAYwC4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:25:28.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\Program.cs",
+              "RelativeDocumentMoniker": "hw10_grocerylist\\Program.cs",
+              "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\homework\\hw10_grocerylist\\hw10_grocerylist\\Program.cs",
+              "RelativeToolTip": "hw10_grocerylist\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAwC0AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T05:24:21.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
