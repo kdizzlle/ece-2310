@@ -1,0 +1,2 @@
+C:\Users\bronc\Documents\GitHub\ece-2310\class exercises\parent_child_classes_animal\parent_child_classes_animal\obj\Debug\parent_child_classes_animal.csproj.AssemblyReference.cache
+C:\Users\bronc\Documents\GitHub\ece-2310\class exercises\parent_child_classes_animal\parent_child_classes_animal\obj\Debug\parent_child_classes_animal.csproj.CoreCompileInputs.cache
