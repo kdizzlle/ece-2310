@@ -23,6 +23,17 @@ namespace parent_child_classes_animal
             for (int i = 0; i < 2; i++)
                 anm[i].Move();
 
+            Console.WriteLine("\n-----Testing Dog Class-----");
+            Dog[] dogs = new Dog[2];
+            dogs[0] = new Dog();
+            dogs[1] = new Dog(7, "Schnauzer");
+            for(int i=0; i<2; i++)
+                Console.WriteLine("dogs[{0}]: {1}", i, dogs[i]);
+            dogs[0].Breed = "Goldendoodle";
+            dogs[0].Bark();
+            dogs[1].Move();
+
+
             Console.Read();
         }
     }

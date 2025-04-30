@@ -1,2 +1,7 @@
 C:\Users\bronc\Documents\GitHub\ece-2310\class exercises\parent_child_classes_animal\parent_child_classes_animal\obj\Debug\parent_child_classes_animal.csproj.AssemblyReference.cache
 C:\Users\bronc\Documents\GitHub\ece-2310\class exercises\parent_child_classes_animal\parent_child_classes_animal\obj\Debug\parent_child_classes_animal.csproj.CoreCompileInputs.cache
+C:\Users\bronc\Documents\GitHub\ece-2310\class exercises\parent_child_classes_animal\parent_child_classes_animal\bin\Debug\parent_child_classes_animal.exe.config
+C:\Users\bronc\Documents\GitHub\ece-2310\class exercises\parent_child_classes_animal\parent_child_classes_animal\bin\Debug\parent_child_classes_animal.exe
+C:\Users\bronc\Documents\GitHub\ece-2310\class exercises\parent_child_classes_animal\parent_child_classes_animal\bin\Debug\parent_child_classes_animal.pdb
+C:\Users\bronc\Documents\GitHub\ece-2310\class exercises\parent_child_classes_animal\parent_child_classes_animal\obj\Debug\parent_child_classes_animal.exe
+C:\Users\bronc\Documents\GitHub\ece-2310\class exercises\parent_child_classes_animal\parent_child_classes_animal\obj\Debug\parent_child_classes_animal.pdb

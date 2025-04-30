@@ -7,11 +7,15 @@
       "RelativeMoniker": "D:0:0:{2E3BB375-491E-45F6-8B4F-AA7E8604FB31}|parent_child_classes_animal\\parent_child_classes_animal.csproj|solutionrelative:parent_child_classes_animal\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E3BB375-491E-45F6-8B4F-AA7E8604FB31}|parent_child_classes_animal\\parent_child_classes_animal.csproj|c:\\users\\bronc\\documents\\github\\ece-2310\\class exercises\\parent_child_classes_animal\\parent_child_classes_animal\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E3BB375-491E-45F6-8B4F-AA7E8604FB31}|parent_child_classes_animal\\parent_child_classes_animal.csproj|C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\class exercises\\parent_child_classes_animal\\parent_child_classes_animal\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E3BB375-491E-45F6-8B4F-AA7E8604FB31}|parent_child_classes_animal\\parent_child_classes_animal.csproj|solutionrelative:parent_child_classes_animal\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2E3BB375-491E-45F6-8B4F-AA7E8604FB31}|parent_child_classes_animal\\parent_child_classes_animal.csproj|c:\\users\\bronc\\documents\\github\\ece-2310\\class exercises\\parent_child_classes_animal\\parent_child_classes_animal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2E3BB375-491E-45F6-8B4F-AA7E8604FB31}|parent_child_classes_animal\\parent_child_classes_animal.csproj|c:\\users\\bronc\\documents\\github\\ece-2310\\class exercises\\parent_child_classes_animal\\parent_child_classes_animal\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E3BB375-491E-45F6-8B4F-AA7E8604FB31}|parent_child_classes_animal\\parent_child_classes_animal.csproj|solutionrelative:parent_child_classes_animal\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E3BB375-491E-45F6-8B4F-AA7E8604FB31}|parent_child_classes_animal\\parent_child_classes_animal.csproj|C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\class exercises\\parent_child_classes_animal\\parent_child_classes_animal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E3BB375-491E-45F6-8B4F-AA7E8604FB31}|parent_child_classes_animal\\parent_child_classes_animal.csproj|solutionrelative:parent_child_classes_animal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -22,8 +26,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\class exercises\\parent_child_classes_animal\\parent_child_classes_animal\\Bird.cs",
+              "RelativeDocumentMoniker": "parent_child_classes_animal\\Bird.cs",
+              "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\class exercises\\parent_child_classes_animal\\parent_child_classes_animal\\Bird.cs",
+              "RelativeToolTip": "parent_child_classes_animal\\Bird.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwCMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T19:09:19.618Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -32,7 +49,7 @@
               "RelativeDocumentMoniker": "parent_child_classes_animal\\Dog.cs",
               "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\class exercises\\parent_child_classes_animal\\parent_child_classes_animal\\Dog.cs",
               "RelativeToolTip": "parent_child_classes_animal\\Dog.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAowCEAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCgAAABmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T19:14:01.07Z",
               "EditorCaption": ""
@@ -45,20 +62,20 @@
               "RelativeDocumentMoniker": "parent_child_classes_animal\\Animal.cs",
               "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\class exercises\\parent_child_classes_animal\\parent_child_classes_animal\\Animal.cs",
               "RelativeToolTip": "parent_child_classes_animal\\Animal.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T19:02:54.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\class exercises\\parent_child_classes_animal\\parent_child_classes_animal\\Program.cs",
               "RelativeDocumentMoniker": "parent_child_classes_animal\\Program.cs",
               "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\class exercises\\parent_child_classes_animal\\parent_child_classes_animal\\Program.cs",
               "RelativeToolTip": "parent_child_classes_animal\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wB4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-28T19:02:37.606Z",
               "EditorCaption": ""

@@ -33,7 +33,12 @@ namespace parent_child_classes_animal
 
         public override string ToString()
         {
-            return "A "+age+"-year old "+breed+"dog.";
+            return "A "+age+"-year old "+breed+" dog.";
+        }
+
+        public override void Move()
+        {
+            Console.WriteLine("The {0}-year old {1} dog is running quickly in the park.", age, breed);
         }
 
         ~Dog() { }
