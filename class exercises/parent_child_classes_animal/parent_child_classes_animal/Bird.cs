@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace parent_child_classes_animal
 {
-    internal class Bird
+    internal class Bird:Animal
     {
         private string color;
 

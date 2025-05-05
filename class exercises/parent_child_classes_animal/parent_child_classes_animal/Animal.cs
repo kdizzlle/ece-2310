@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace parent_child_classes_animal
 {
-    internal class Animal
+    //internal class Animal
+    abstract class Animal
     {
         protected int age;
         public Animal()
@@ -28,10 +29,11 @@ namespace parent_child_classes_animal
                     age = 0;
             }
         }
-        public void Move()
-        {
-            Console.WriteLine("The {0}-year old animal  is moving slowly.", age);
-        }
+        public abstract void Move();
+        //public virtual void Move()
+        //{
+        //    Console.WriteLine("The {0}-year old animal  is moving slowly.", age);
+        //}
         public override string ToString()
         {
             return "An animal at the age of "+age;
