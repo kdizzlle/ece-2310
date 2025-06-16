@@ -1,0 +1,7 @@
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw11_student_class\obj\Debug\hw11_student_class.csproj.AssemblyReference.cache
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw11_student_class\obj\Debug\hw11_student_class.csproj.CoreCompileInputs.cache
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw11_student_class\bin\Debug\hw11_student_class.exe.config
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw11_student_class\bin\Debug\hw11_student_class.exe
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw11_student_class\bin\Debug\hw11_student_class.pdb
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw11_student_class\obj\Debug\hw11_student_class.exe
+D:\Users\2790755\Documents\GitHub\ece-2310\homework\hw11_student_class\obj\Debug\hw11_student_class.pdb
