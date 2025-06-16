@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\final\\FinalExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E68E0A4B-323D-41E4-9B76-0E61EDF5F2C8}|FinalExam\\FinalExam.csproj|c:\\users\\bronc\\documents\\github\\ece-2310\\final\\finalexam\\finalexam\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68E0A4B-323D-41E4-9B76-0E61EDF5F2C8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\magazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68E0A4B-323D-41E4-9B76-0E61EDF5F2C8}|FinalExam\\FinalExam.csproj|c:\\users\\bronc\\documents\\github\\ece-2310\\final\\finalexam\\finalexam\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68E0A4B-323D-41E4-9B76-0E61EDF5F2C8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\date.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68E0A4B-323D-41E4-9B76-0E61EDF5F2C8}|FinalExam\\FinalExam.csproj|c:\\users\\bronc\\documents\\github\\ece-2310\\final\\finalexam\\finalexam\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68E0A4B-323D-41E4-9B76-0E61EDF5F2C8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68E0A4B-323D-41E4-9B76-0E61EDF5F2C8}|FinalExam\\FinalExam.csproj|c:\\users\\bronc\\documents\\github\\ece-2310\\final\\finalexam\\finalexam\\readingmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68E0A4B-323D-41E4-9B76-0E61EDF5F2C8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\readingmaterial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E68E0A4B-323D-41E4-9B76-0E61EDF5F2C8}|FinalExam\\FinalExam.csproj|c:\\users\\bronc\\documents\\github\\ece-2310\\final\\finalexam\\finalexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E68E0A4B-323D-41E4-9B76-0E61EDF5F2C8}|FinalExam\\FinalExam.csproj|solutionrelative:finalexam\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\final\\FinalExam\\FinalExam\\Book.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Book.cs",
+              "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\final\\FinalExam\\FinalExam\\Book.cs",
+              "RelativeToolTip": "FinalExam\\Book.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:30:06.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Date.cs",
+              "DocumentMoniker": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\final\\FinalExam\\FinalExam\\Date.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Date.cs",
+              "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\final\\FinalExam\\FinalExam\\Date.cs",
+              "RelativeToolTip": "FinalExam\\Date.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:25:07.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReadingMaterial.cs",
+              "DocumentMoniker": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\final\\FinalExam\\FinalExam\\ReadingMaterial.cs",
+              "RelativeDocumentMoniker": "FinalExam\\ReadingMaterial.cs",
+              "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\final\\FinalExam\\FinalExam\\ReadingMaterial.cs",
+              "RelativeToolTip": "FinalExam\\ReadingMaterial.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAAC8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:24:41.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\final\\FinalExam\\FinalExam\\Program.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Program.cs",
+              "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\final\\FinalExam\\FinalExam\\Program.cs",
+              "RelativeToolTip": "FinalExam\\Program.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:17:40.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Magazine.cs",
+              "DocumentMoniker": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\final\\FinalExam\\FinalExam\\Magazine.cs",
+              "RelativeDocumentMoniker": "FinalExam\\Magazine.cs",
+              "ToolTip": "C:\\Users\\bronc\\Documents\\GitHub\\ece-2310\\final\\FinalExam\\FinalExam\\Magazine.cs",
+              "RelativeToolTip": "FinalExam\\Magazine.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T18:38:47.584Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

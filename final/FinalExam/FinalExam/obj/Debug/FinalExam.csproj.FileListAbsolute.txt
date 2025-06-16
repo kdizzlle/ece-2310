@@ -1,0 +1,7 @@
+C:\Users\bronc\Documents\GitHub\ece-2310\final\FinalExam\FinalExam\bin\Debug\FinalExam.exe.config
+C:\Users\bronc\Documents\GitHub\ece-2310\final\FinalExam\FinalExam\bin\Debug\FinalExam.exe
+C:\Users\bronc\Documents\GitHub\ece-2310\final\FinalExam\FinalExam\bin\Debug\FinalExam.pdb
+C:\Users\bronc\Documents\GitHub\ece-2310\final\FinalExam\FinalExam\obj\Debug\FinalExam.csproj.AssemblyReference.cache
+C:\Users\bronc\Documents\GitHub\ece-2310\final\FinalExam\FinalExam\obj\Debug\FinalExam.csproj.CoreCompileInputs.cache
+C:\Users\bronc\Documents\GitHub\ece-2310\final\FinalExam\FinalExam\obj\Debug\FinalExam.exe
+C:\Users\bronc\Documents\GitHub\ece-2310\final\FinalExam\FinalExam\obj\Debug\FinalExam.pdb

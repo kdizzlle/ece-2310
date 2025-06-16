@@ -29,7 +29,7 @@ namespace parent_child_classes_animal
                     age = 0;
             }
         }
-        public abstract void Move();
+        //public abstract void Move();
         //public virtual void Move()
         //{
         //    Console.WriteLine("The {0}-year old animal  is moving slowly.", age);

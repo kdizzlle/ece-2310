@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace parent_child_classes_animal
 {
-    internal class Bird:Animal
+    internal class Bird:Animal,IAct
     {
         private string color;
 
@@ -29,10 +29,10 @@ namespace parent_child_classes_animal
         {
             Console.WriteLine("The {0} colored bird is chirping.",color);
         }
-        public override void Move()
-        {
-            Console.WriteLine("The {0} colored bird is flying in the yard.", color);
-        }
+        //public override void Move()
+        //{
+        //    Console.WriteLine("The {0} colored bird is flying in the yard.", color);
+        //}
         public override string ToString()
         {
             return "A " + Age + "-year old " + color + " bird.";

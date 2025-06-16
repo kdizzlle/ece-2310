@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace parent_child_classes_animal
 {
-    internal class Dog:Animal //inheritance
+    internal class Dog:Animal,IAct //inheritance, interface
     {
         private string breed;
 
@@ -36,10 +36,10 @@ namespace parent_child_classes_animal
             return "A "+age+"-year old "+breed+" dog.";
         }
 
-        public override void Move()
-        {
-            Console.WriteLine("The {0}-year old {1} dog is running quickly in the park.", age, breed);
-        }
+        //public override void Move()
+        //{
+        //    Console.WriteLine("The {0}-year old {1} dog is running quickly in the park.", age, breed);
+        //}
 
         ~Dog() { }
     }

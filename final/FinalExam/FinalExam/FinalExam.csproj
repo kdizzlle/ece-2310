@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2E3BB375-491E-45F6-8B4F-AA7E8604FB31}</ProjectGuid>
+    <ProjectGuid>{E68E0A4B-323D-41E4-9B76-0E61EDF5F2C8}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>parent_child_classes_animal</RootNamespace>
-    <AssemblyName>parent_child_classes_animal</AssemblyName>
+    <RootNamespace>FinalExam</RootNamespace>
+    <AssemblyName>FinalExam</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,12 +43,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Animal.cs" />
-    <Compile Include="Bird.cs" />
-    <Compile Include="Dog.cs" />
-    <Compile Include="IAct.cs" />
+    <Compile Include="Book.cs" />
+    <Compile Include="Date.cs" />
+    <Compile Include="Magazine.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ReadingMaterial.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
